@@ -1,8 +1,4 @@
-নিচে **README.md** ফাইলের জন্য একটি শক্তিশালী এবং সুন্দর **Markdown** ফরম্যাট দেওয়া হলো:  
 
----
-
-```md
 # 🔥 SHADOW STRIKER ATTACK TOOL 🔥
 
 ## 📌 About This Tool
@@ -28,9 +24,9 @@ SHADOW STRIKER হল একটি **উন্নত HTTP Flooding & DoS Testing
 pkg update && pkg upgrade -y
 pkg install python3 -y
 pip install requests rich
-git clone https://github.com/ADIRTTA/SHADOW_STRIKER.git
-cd SHADOW_STRIKER
-python3 tack.py
+git clone https://github.com/ADIRTTA/DDOS.git
+cd DDOS
+python3 attack.py
 ```
 **Options:**  
 - `-u` **Target URL**  
