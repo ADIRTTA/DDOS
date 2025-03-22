@@ -26,7 +26,7 @@ pkg install python3 -y
 pip install requests rich
 git clone https://github.com/ADIRTTA/DDOS.git
 cd DDOS
-chmod + x*
+chmod +x *
 python3 attack.py
 ```
 **Options:**  
